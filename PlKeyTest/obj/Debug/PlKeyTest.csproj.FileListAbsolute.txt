@@ -4,3 +4,9 @@ C:\Code\RacoIndustries\PlKeyTest\PlKeyTest\bin\Debug\PlKeyTest.pdb
 C:\Code\RacoIndustries\PlKeyTest\PlKeyTest\obj\Debug\PlKeyTest.csprojResolveAssemblyReference.cache
 C:\Code\RacoIndustries\PlKeyTest\PlKeyTest\obj\Debug\PlKeyTest.exe
 C:\Code\RacoIndustries\PlKeyTest\PlKeyTest\obj\Debug\PlKeyTest.pdb
+C:\Code\aschaible\PlKeyTest\PlKeyTest\bin\Debug\PlKeyTest.exe.config
+C:\Code\aschaible\PlKeyTest\PlKeyTest\obj\Debug\PlKeyTest.exe
+C:\Code\aschaible\PlKeyTest\PlKeyTest\obj\Debug\PlKeyTest.pdb
+C:\Code\aschaible\PlKeyTest\PlKeyTest\bin\Debug\PlKeyTest.exe
+C:\Code\aschaible\PlKeyTest\PlKeyTest\bin\Debug\PlKeyTest.pdb
+C:\Code\aschaible\PlKeyTest\PlKeyTest\obj\Debug\PlKeyTest.csprojResolveAssemblyReference.cache

@@ -19,8 +19,12 @@ namespace PlKeyTest
 
         public static void Main()
         {
-            var result = ConstructIFrameURL("e25844e6-353f-40da-92ec-16c3760fbe34", "2", "26");
-            Console.WriteLine(result);
+            var result1 = ConstructIFrameURL("e25844e6-353f-40da-92ec-16c3760fbe34", "2", "26");
+            var result2 = ConstructIFrameURL("f514f847-353f-40da-92ec-16c3760fbe34", "2", "26");
+            var result3 = ConstructIFrameURL("d5d41737-353f-40da-92ec-16c3760fbe34", "2", "26");
+            Console.WriteLine(result1);
+            Console.WriteLine(result2);
+            Console.WriteLine(result3);
             Console.WriteLine("Press enter to exit");
             Console.ReadLine();
         }
